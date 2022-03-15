@@ -1,0 +1,11 @@
+Welcome,
+
+Feel free to contribute any project you would like that integrates or improves ShibNitro in this space. 
+
+Here are a few guidelines:
+
+1. Any new tokens that integrate ShibNitro need to have liquidity pools locked via unicrypt.
+2. Dev tokens need to be vested via unicrypt.
+3. Contracts need to be verified on etherscan.
+
+Feel free to reach out to the team on telegram. t.me/shibnitro
